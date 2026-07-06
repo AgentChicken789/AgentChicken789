@@ -11,8 +11,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/agentchicken789)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/RmxWEzwaZz)
 
-</div>
-
 ---
 
 ## 🚀 Über mich
@@ -23,8 +21,6 @@ Entwickler & Content Creator mit Fokus auf **Minecraft**, **YouTube** und **Soft
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,8 +30,6 @@ Entwickler & Content Creator mit Fokus auf **Minecraft**, **YouTube** und **Soft
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 ---
 
@@ -59,10 +53,7 @@ UI/UX & Animationen · Unity Shader & Performance · moderne JS-Frameworks · KI
 
 ## 🎯 Ziele
 
-- [ ] Eigenes Unity-Spiel veröffentlichen
-- [ ] Mehr Open-Source-Beiträge
-- [ ] YouTube-Kanal weiter ausbauen
-- [ ] Eigenes größeres Tool entwickeln
+Eigenes Unity-Spiel veröffentlichen · Mehr Open-Source-Beiträge · YouTube-Kanal ausbauen · Eigenes größeres Tool entwickeln
 
 ---
 
@@ -71,8 +62,6 @@ UI/UX & Animationen · Unity Shader & Performance · moderne JS-Frameworks · KI
 🎬 Editing macht mir fast so viel Spaß wie Coden · ⛏️ Minecraft seit Jahren dabei · 🌙 Beste Ideen kommen abends beim Coden
 
 ---
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgentChicken789)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AgentChicken789?sub_confirmation=1)
